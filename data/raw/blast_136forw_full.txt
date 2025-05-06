@@ -1,0 +1,3565 @@
+RID: 1CV7RZ8D016	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Database: refseq_genomes (2 databases) 
+Query #1:  Query ID: lcl|Query_982963 Length: 23
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Cricetulus griseus strain 17A/GY chromosome 5, alternate...       Cricetulus g... Chinese hamster 10029      46.1   363   100%  3e-04 100.00 193770019  NC_048598.1      
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      46.1   46.1  100%  3e-04 100.00 1631468    NW_003613921.1   
+Cricetulus griseus strain 17A/GY chromosome 1 unlocalized...      Cricetulus g... Chinese hamster 10029      32.2   666   100%  4.8   100.00 274391693  NW_023276807.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      32.2   32.2  70%   4.8   100.00 1848805    NW_003613855.1   
+Cricetulus griseus strain 17A/GY chromosome 2, alternate...       Cricetulus g... Chinese hamster 10029      30.2   1151  100%  19    94.74  461620117  NC_048595.1      
+Cricetulus griseus strain 17A/GY chromosome 7, alternate...       Cricetulus g... Chinese hamster 10029      30.2   270   100%  19    100.00 134359064  NC_048600.1      
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      30.2   30.2  83%   19    94.74  286778     NW_003615366.1   
+Cricetulus griseus strain 17A/GY chromosome 3, alternate...       Cricetulus g... Chinese hamster 10029      28.2   535   100%  75    94.44  282827514  NC_048596.1      
+Cricetulus griseus strain 17A/GY chromosome 4, alternate...       Cricetulus g... Chinese hamster 10029      28.2   587   91%   75    100.00 231097868  NC_048597.1      
+Cricetulus griseus strain 17A/GY chromosome 6, alternate...       Cricetulus g... Chinese hamster 10029      28.2   403   96%   75    100.00 155611870  NC_048599.1      
+Cricetulus griseus strain 17A/GY chromosome 8, alternate...       Cricetulus g... Chinese hamster 10029      28.2   238   83%   75    100.00 99554469   NC_048601.1      
+Cricetulus griseus strain 17A/GY chromosome X, alternate...       Cricetulus g... Chinese hamster 10029      28.2   214   61%   75    100.00 127255434  NC_048604.1      
+Cricetulus griseus strain 17A/GY chromosome 1 unlocalized...      Cricetulus g... Chinese hamster 10029      28.2   506   96%   75    100.00 275698159  NW_023276806.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 6533376    NW_003613583.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   54.5  61%   75    100.00 6025277    NW_003613585.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 5087073    NW_003613594.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 3676675    NW_003613631.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  78%   75    94.44  3212030    NW_003613649.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 2985627    NW_003613667.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 2722307    NW_003613699.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   56.5  61%   75    100.00 2222064    NW_003613764.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 2175164    NW_003613770.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 2131260    NW_003613782.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 2017213    NW_003613817.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 1900604    NW_003613843.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 1839028    NW_003613857.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 1676182    NW_003613900.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 1675245    NW_003613901.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 1594591    NW_003613934.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 1219733    NW_003614090.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   56.5  61%   75    100.00 1147448    NW_003614125.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 1022093    NW_003614203.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 784548     NW_003614407.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 772573     NW_003614427.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 724048     NW_003614475.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 692320     NW_003614507.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 668345     NW_003614545.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 391751     NW_003615010.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 382275     NW_003615033.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 268674     NW_003615443.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 197184     NW_003615795.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 170310     NW_003615965.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 118091     NW_003616533.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  61%   75    100.00 111193     NW_003616627.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      28.2   28.2  78%   75    94.44  69795      NW_003617382.1   
+Cricetulus griseus strain 17A/GY unplaced genomic scaffold,...    Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 327103     NW_023276964.1   
+Cricetulus griseus strain 17A/GY unplaced genomic scaffold,...    Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 82219      NW_023276846.1   
+Cricetulus griseus strain 17A/GY chromosome 10, alternate...      Cricetulus g... Chinese hamster 10029      26.3   105   91%   296   100.00 32558357   NC_048603.1      
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 6666273    NW_003613582.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 6190410    NW_003613584.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 6017914    NW_003613586.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 5891381    NW_003613587.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 5865362    NW_003613588.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 5672382    NW_003613589.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 5545501    NW_003613590.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   52.5  57%   296   100.00 5329664    NW_003613592.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   52.5  61%   296   100.00 4980923    NW_003613595.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 4912450    NW_003613596.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 4900080    NW_003613597.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   52.5  57%   296   100.00 4797145    NW_003613598.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 4686562    NW_003613599.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 4670979    NW_003613600.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 4657195    NW_003613603.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 4429136    NW_003613607.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 4408540    NW_003613608.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 4329962    NW_003613613.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 4110586    NW_003613621.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 3839218    NW_003613626.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 3676172    NW_003613632.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 3632611    NW_003613635.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 3472997    NW_003613638.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 3400515    NW_003613640.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 3300758    NW_003613645.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 3299557    NW_003613646.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 3174489    NW_003613651.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 3156967    NW_003613654.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 3119670    NW_003613658.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 3026788    NW_003613662.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 2995885    NW_003613666.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 2936937    NW_003613672.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 2890666    NW_003613680.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 2881222    NW_003613682.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 2849890    NW_003613684.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 2754436    NW_003613692.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 2720104    NW_003613701.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 2563300    NW_003613716.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 2487352    NW_003613726.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 2479310    NW_003613728.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 2447628    NW_003613731.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      26.3   26.3  57%   296   100.00 2424524    NW_003613735.1   
+
+
+Alignments:
+
+>Cricetulus griseus strain 17A/GY chromosome 5, alternate assembly CriGri-PICRH-1.0, whole genome shotgun sequence
+Sequence ID: NC_048598.1 Length: 193770019
+Range 1: 37805771 to 37805793
+
+Score:46.1 bits(23), Expect:3e-04, 
+Identities:23/23(100%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGACCGAACAATGG  23
+                 |||||||||||||||||||||||
+Sbjct  37805793  TTTACAGTATGACCGAACAATGG  37805771
+
+
+
+
+Range 2: 145271315 to 145271328
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGACC  14
+                  ||||||||||||||
+Sbjct  145271315  TTTACAGTATGACC  145271328
+
+
+
+
+Range 3: 17796171 to 17796183
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  17796171  TTTACAGTATGAC  17796183
+
+
+
+
+Range 4: 31005826 to 31005838
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  31005826  TTACAGTATGACC  31005838
+
+
+
+
+Range 5: 56990002 to 56990014
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  56990002  TTTACAGTATGAC  56990014
+
+
+
+
+Range 6: 70331694 to 70331706
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  70331694  TTTACAGTATGAC  70331706
+
+
+
+
+Range 7: 83135421 to 83135433
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  83135421  TTTACAGTATGAC  83135433
+
+
+
+
+Range 8: 90676180 to 90676192
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  5         CAGTATGACCGAA  17
+                 |||||||||||||
+Sbjct  90676180  CAGTATGACCGAA  90676192
+
+
+
+
+Range 9: 110461937 to 110461949
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  9          ATGACCGAACAAT  21
+                  |||||||||||||
+Sbjct  110461937  ATGACCGAACAAT  110461949
+
+
+
+
+Range 10: 114934357 to 114934369
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  114934369  TTTACAGTATGAC  114934357
+
+
+
+
+Range 11: 126077136 to 126077148
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  126077148  TTTACAGTATGAC  126077136
+
+
+
+
+Range 12: 127039619 to 127039631
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  127039631  TTTACAGTATGAC  127039619
+
+
+
+
+Range 13: 136023232 to 136023244
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  136023232  TTTACAGTATGAC  136023244
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold2883
+Sequence ID: NW_003613921.1 Length: 1631468
+Range 1: 1427645 to 1427667
+
+Score:46.1 bits(23), Expect:3e-04, 
+Identities:23/23(100%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGACCGAACAATGG  23
+                |||||||||||||||||||||||
+Sbjct  1427645  TTTACAGTATGACCGAACAATGG  1427667
+
+
+
+
+>Cricetulus griseus strain 17A/GY chromosome 1 unlocalized genomic scaffold, alternate assembly CriGri-PICRH-1.0 chr1_1, whole genome shotgun sequence
+Sequence ID: NW_023276807.1 Length: 274391693
+Range 1: 30936551 to 30936566
+
+Score:32.2 bits(16), Expect:4.8, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGACCGA  16
+                 ||||||||||||||||
+Sbjct  30936566  TTTACAGTATGACCGA  30936551
+
+
+
+
+Range 2: 96652736 to 96652749
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  96652749  TTTACAGTATGACC  96652736
+
+
+
+
+Range 3: 202184374 to 202184387
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  10         TGACCGAACAATGG  23
+                  ||||||||||||||
+Sbjct  202184387  TGACCGAACAATGG  202184374
+
+
+
+
+Range 4: 5751198 to 5751210
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  8        TATGACCGAACAA  20
+                |||||||||||||
+Sbjct  5751198  TATGACCGAACAA  5751210
+
+
+
+
+Range 5: 13767228 to 13767248
+
+Score:26.3 bits(13), Expect:296, 
+Identities:19/21(90%),  Gaps:0/21(0%), Strand: Plus/Plus
+
+Query  3         TACAGTATGACCGAACAATGG  23
+                 |||| ||||||| ||||||||
+Sbjct  13767228  TACACTATGACCAAACAATGG  13767248
+
+
+
+
+Range 6: 44433667 to 44433679
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  44433679  TTTACAGTATGAC  44433667
+
+
+
+
+Range 7: 53793874 to 53793886
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  53793874  TTACAGTATGACC  53793886
+
+
+
+
+Range 8: 63572861 to 63572873
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  11        GACCGAACAATGG  23
+                 |||||||||||||
+Sbjct  63572861  GACCGAACAATGG  63572873
+
+
+
+
+Range 9: 72420734 to 72420746
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  72420746  TTTACAGTATGAC  72420734
+
+
+
+
+Range 10: 93626972 to 93626988
+
+Score:26.3 bits(13), Expect:296, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Minus
+
+Query  6         AGTATGACCGAACAATG  22
+                 ||||||||| |||||||
+Sbjct  93626988  AGTATGACCTAACAATG  93626972
+
+
+
+
+Range 11: 108426270 to 108426286
+
+Score:26.3 bits(13), Expect:296, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Minus
+
+Query  4          ACAGTATGACCGAACAA  20
+                  ||||||||||| |||||
+Sbjct  108426286  ACAGTATGACCCAACAA  108426270
+
+
+
+
+Range 12: 114390183 to 114390195
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  114390183  TTTACAGTATGAC  114390195
+
+
+
+
+Range 13: 117812090 to 117812102
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  117812102  TTTACAGTATGAC  117812090
+
+
+
+
+Range 14: 168215855 to 168215867
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  9          ATGACCGAACAAT  21
+                  |||||||||||||
+Sbjct  168215855  ATGACCGAACAAT  168215867
+
+
+
+
+Range 15: 175317031 to 175317043
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  175317043  TTACAGTATGACC  175317031
+
+
+
+
+Range 16: 185708886 to 185708898
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  11         GACCGAACAATGG  23
+                  |||||||||||||
+Sbjct  185708898  GACCGAACAATGG  185708886
+
+
+
+
+Range 17: 196822550 to 196822562
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  196822562  TTTACAGTATGAC  196822550
+
+
+
+
+Range 18: 204756613 to 204756625
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  3          TACAGTATGACCG  15
+                  |||||||||||||
+Sbjct  204756613  TACAGTATGACCG  204756625
+
+
+
+
+Range 19: 215078937 to 215078949
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  215078937  TTTACAGTATGAC  215078949
+
+
+
+
+Range 20: 223649933 to 223649945
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  11         GACCGAACAATGG  23
+                  |||||||||||||
+Sbjct  223649945  GACCGAACAATGG  223649933
+
+
+
+
+Range 21: 237239644 to 237239656
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  237239644  TTTACAGTATGAC  237239656
+
+
+
+
+Range 22: 246782638 to 246782650
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  10         TGACCGAACAATG  22
+                  |||||||||||||
+Sbjct  246782650  TGACCGAACAATG  246782638
+
+
+
+
+Range 23: 251773990 to 251774002
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  5          CAGTATGACCGAA  17
+                  |||||||||||||
+Sbjct  251773990  CAGTATGACCGAA  251774002
+
+
+
+
+Range 24: 258434047 to 258434059
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  258434047  TTTACAGTATGAC  258434059
+
+
+
+
+Range 25: 270989040 to 270989052
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  270989052  TTTACAGTATGAC  270989040
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1218
+Sequence ID: NW_003613855.1 Length: 1848805
+Range 1: 414574 to 414589
+
+Score:32.2 bits(16), Expect:4.8, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Minus
+
+Query  1       TTTACAGTATGACCGA  16
+               ||||||||||||||||
+Sbjct  414589  TTTACAGTATGACCGA  414574
+
+
+
+
+>Cricetulus griseus strain 17A/GY chromosome 2, alternate assembly CriGri-PICRH-1.0, whole genome shotgun sequence
+Sequence ID: NC_048595.1 Length: 461620117
+Range 1: 142288753 to 142288771
+
+Score:30.2 bits(15), Expect:19, 
+Identities:18/19(95%),  Gaps:0/19(0%), Strand: Plus/Plus
+
+Query  2          TTACAGTATGACCGAACAA  20
+                  ||||||||||| |||||||
+Sbjct  142288753  TTACAGTATGATCGAACAA  142288771
+
+
+
+
+Range 2: 25843605 to 25843618
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  25843605  TTTACAGTATGACC  25843618
+
+
+
+
+Range 3: 65228226 to 65228239
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10        TGACCGAACAATGG  23
+                 ||||||||||||||
+Sbjct  65228226  TGACCGAACAATGG  65228239
+
+
+
+
+Range 4: 157126468 to 157126481
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGACC  14
+                  ||||||||||||||
+Sbjct  157126468  TTTACAGTATGACC  157126481
+
+
+
+
+Range 5: 227534876 to 227534889
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10         TGACCGAACAATGG  23
+                  ||||||||||||||
+Sbjct  227534876  TGACCGAACAATGG  227534889
+
+
+
+
+Range 6: 243437142 to 243437155
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5          CAGTATGACCGAAC  18
+                  ||||||||||||||
+Sbjct  243437155  CAGTATGACCGAAC  243437142
+
+
+
+
+Range 7: 287556275 to 287556288
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  8          TATGACCGAACAAT  21
+                  ||||||||||||||
+Sbjct  287556288  TATGACCGAACAAT  287556275
+
+
+
+
+Range 8: 357527381 to 357527394
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  4          ACAGTATGACCGAA  17
+                  ||||||||||||||
+Sbjct  357527381  ACAGTATGACCGAA  357527394
+
+
+
+
+Range 9: 395758688 to 395758701
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGACC  14
+                  ||||||||||||||
+Sbjct  395758701  TTTACAGTATGACC  395758688
+
+
+
+
+Range 10: 449354017 to 449354030
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGACC  14
+                  ||||||||||||||
+Sbjct  449354030  TTTACAGTATGACC  449354017
+
+
+
+
+Range 11: 14097185 to 14097197
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  14097197  TTACAGTATGACC  14097185
+
+
+
+
+Range 12: 43475772 to 43475784
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  43475784  TTTACAGTATGAC  43475772
+
+
+
+
+Range 13: 59618506 to 59618518
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  9         ATGACCGAACAAT  21
+                 |||||||||||||
+Sbjct  59618518  ATGACCGAACAAT  59618506
+
+
+
+
+Range 14: 77175635 to 77175647
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  77175647  TTTACAGTATGAC  77175635
+
+
+
+
+Range 15: 92233631 to 92233643
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  92233631  TTTACAGTATGAC  92233643
+
+
+
+
+Range 16: 95428859 to 95428871
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  95428859  TTTACAGTATGAC  95428871
+
+
+
+
+Range 17: 108341531 to 108341543
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  108341531  TTTACAGTATGAC  108341543
+
+
+
+
+Range 18: 110515858 to 110515870
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  110515870  TTTACAGTATGAC  110515858
+
+
+
+
+Range 19: 115995726 to 115995738
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  115995738  TTACAGTATGACC  115995726
+
+
+
+
+Range 20: 132487920 to 132487932
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  132487920  TTTACAGTATGAC  132487932
+
+
+
+
+Range 21: 146770150 to 146770162
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  146770150  TTTACAGTATGAC  146770162
+
+
+
+
+Range 22: 153015590 to 153015602
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  153015590  TTTACAGTATGAC  153015602
+
+
+
+
+Range 23: 184011370 to 184011382
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  184011370  TTTACAGTATGAC  184011382
+
+
+
+
+Range 24: 186346742 to 186346754
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  186346742  TTTACAGTATGAC  186346754
+
+
+
+
+Range 25: 204490115 to 204490127
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  204490115  TTTACAGTATGAC  204490127
+
+
+
+
+Range 26: 220159870 to 220159882
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  220159870  TTACAGTATGACC  220159882
+
+
+
+
+Range 27: 228829513 to 228829525
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  228829513  TTTACAGTATGAC  228829525
+
+
+
+
+Range 28: 242839082 to 242839094
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  242839094  TTTACAGTATGAC  242839082
+
+
+
+
+Range 29: 247474021 to 247474033
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  11         GACCGAACAATGG  23
+                  |||||||||||||
+Sbjct  247474021  GACCGAACAATGG  247474033
+
+
+
+
+Range 30: 248926888 to 248926900
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  248926888  TTTACAGTATGAC  248926900
+
+
+
+
+Range 31: 250709100 to 250709112
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  11         GACCGAACAATGG  23
+                  |||||||||||||
+Sbjct  250709112  GACCGAACAATGG  250709100
+
+
+
+
+Range 32: 296663499 to 296663511
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  7          GTATGACCGAACA  19
+                  |||||||||||||
+Sbjct  296663499  GTATGACCGAACA  296663511
+
+
+
+
+Range 33: 302797936 to 302797948
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  302797936  TTTACAGTATGAC  302797948
+
+
+
+
+Range 34: 332316481 to 332316497
+
+Score:26.3 bits(13), Expect:296, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  4          ACAGTATGACCGAACAA  20
+                  |||||||| ||||||||
+Sbjct  332316481  ACAGTATGTCCGAACAA  332316497
+
+
+
+
+Range 35: 348596472 to 348596484
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  348596484  TTTACAGTATGAC  348596472
+
+
+
+
+Range 36: 363227163 to 363227175
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  8          TATGACCGAACAA  20
+                  |||||||||||||
+Sbjct  363227175  TATGACCGAACAA  363227163
+
+
+
+
+Range 37: 376439096 to 376439108
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  376439096  TTTACAGTATGAC  376439108
+
+
+
+
+Range 38: 376470149 to 376470161
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  3          TACAGTATGACCG  15
+                  |||||||||||||
+Sbjct  376470149  TACAGTATGACCG  376470161
+
+
+
+
+Range 39: 388896586 to 388896598
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  388896586  TTTACAGTATGAC  388896598
+
+
+
+
+Range 40: 405791780 to 405791800
+
+Score:26.3 bits(13), Expect:296, 
+Identities:19/21(90%),  Gaps:0/21(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGACCGAACAAT  21
+                  |||| ||||||||| ||||||
+Sbjct  405791800  TTTAAAGTATGACCTAACAAT  405791780
+
+
+
+
+Range 41: 424801724 to 424801736
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  424801736  TTTACAGTATGAC  424801724
+
+
+
+
+Range 42: 445009832 to 445009844
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  445009844  TTACAGTATGACC  445009832
+
+
+
+
+Range 43: 457678754 to 457678766
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4          ACAGTATGACCGA  16
+                  |||||||||||||
+Sbjct  457678754  ACAGTATGACCGA  457678766
+
+
+
+
+>Cricetulus griseus strain 17A/GY chromosome 7, alternate assembly CriGri-PICRH-1.0, whole genome shotgun sequence
+Sequence ID: NC_048600.1 Length: 134359064
+Range 1: 51551158 to 51551172
+
+Score:30.2 bits(15), Expect:19, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  3         TACAGTATGACCGAA  17
+                 |||||||||||||||
+Sbjct  51551158  TACAGTATGACCGAA  51551172
+
+
+
+
+Range 2: 9231735 to 9231748
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  4        ACAGTATGACCGAA  17
+                ||||||||||||||
+Sbjct  9231748  ACAGTATGACCGAA  9231735
+
+
+
+
+Range 3: 33532625 to 33532638
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  33532638  TTTACAGTATGACC  33532625
+
+
+
+
+Range 4: 41376684 to 41376696
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  8         TATGACCGAACAA  20
+                 |||||||||||||
+Sbjct  41376684  TATGACCGAACAA  41376696
+
+
+
+
+Range 5: 52821115 to 52821127
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  52821115  TTTACAGTATGAC  52821127
+
+
+
+
+Range 6: 80927031 to 80927043
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  11        GACCGAACAATGG  23
+                 |||||||||||||
+Sbjct  80927043  GACCGAACAATGG  80927031
+
+
+
+
+Range 7: 86559046 to 86559058
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  11        GACCGAACAATGG  23
+                 |||||||||||||
+Sbjct  86559058  GACCGAACAATGG  86559046
+
+
+
+
+Range 8: 104107868 to 104107880
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  11         GACCGAACAATGG  23
+                  |||||||||||||
+Sbjct  104107880  GACCGAACAATGG  104107868
+
+
+
+
+Range 9: 125785936 to 125785948
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  125785948  TTACAGTATGACC  125785936
+
+
+
+
+Range 10: 127857447 to 127857459
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  127857459  TTACAGTATGACC  127857447
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1962
+Sequence ID: NW_003615366.1 Length: 286778
+Range 1: 34835 to 34853
+
+Score:30.2 bits(15), Expect:19, 
+Identities:18/19(95%),  Gaps:0/19(0%), Strand: Plus/Minus
+
+Query  2      TTACAGTATGACCGAACAA  20
+              ||||||||||| |||||||
+Sbjct  34853  TTACAGTATGATCGAACAA  34835
+
+
+
+
+>Cricetulus griseus strain 17A/GY chromosome 3, alternate assembly CriGri-PICRH-1.0, whole genome shotgun sequence
+Sequence ID: NC_048596.1 Length: 282827514
+Range 1: 3376520 to 3376537
+
+Score:28.2 bits(14), Expect:75, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  4        ACAGTATGACCGAACAAT  21
+                |||||||||||| |||||
+Sbjct  3376520  ACAGTATGACCGGACAAT  3376537
+
+
+
+
+Range 2: 30523457 to 30523470
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  30523457  TTTACAGTATGACC  30523470
+
+
+
+
+Range 3: 107813865 to 107813878
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGACC  14
+                  ||||||||||||||
+Sbjct  107813878  TTTACAGTATGACC  107813865
+
+
+
+
+Range 4: 198910071 to 198910084
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGACC  14
+                  ||||||||||||||
+Sbjct  198910084  TTTACAGTATGACC  198910071
+
+
+
+
+Range 5: 202363534 to 202363547
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGACC  14
+                  ||||||||||||||
+Sbjct  202363547  TTTACAGTATGACC  202363534
+
+
+
+
+Range 6: 10358454 to 10358466
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  10358466  TTTACAGTATGAC  10358454
+
+
+
+
+Range 7: 16505022 to 16505034
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  11        GACCGAACAATGG  23
+                 |||||||||||||
+Sbjct  16505034  GACCGAACAATGG  16505022
+
+
+
+
+Range 8: 41671191 to 41671203
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  41671203  TTACAGTATGACC  41671191
+
+
+
+
+Range 9: 69919595 to 69919607
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  69919595  TTACAGTATGACC  69919607
+
+
+
+
+Range 10: 126528393 to 126528405
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  126528393  TTTACAGTATGAC  126528405
+
+
+
+
+Range 11: 132991179 to 132991191
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  132991191  TTTACAGTATGAC  132991179
+
+
+
+
+Range 12: 147866209 to 147866221
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  147866209  TTACAGTATGACC  147866221
+
+
+
+
+Range 13: 152656942 to 152656954
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  152656942  TTACAGTATGACC  152656954
+
+
+
+
+Range 14: 154565095 to 154565107
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  154565107  TTACAGTATGACC  154565095
+
+
+
+
+Range 15: 189910758 to 189910770
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  189910758  TTTACAGTATGAC  189910770
+
+
+
+
+Range 16: 223776300 to 223776312
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  223776300  TTTACAGTATGAC  223776312
+
+
+
+
+Range 17: 243549767 to 243549779
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  5          CAGTATGACCGAA  17
+                  |||||||||||||
+Sbjct  243549767  CAGTATGACCGAA  243549779
+
+
+
+
+Range 18: 245415554 to 245415566
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  245415566  TTACAGTATGACC  245415554
+
+
+
+
+Range 19: 250540835 to 250540847
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  250540835  TTTACAGTATGAC  250540847
+
+
+
+
+Range 20: 278933220 to 278933232
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  278933220  TTACAGTATGACC  278933232
+
+
+
+
+>Cricetulus griseus strain 17A/GY chromosome 4, alternate assembly CriGri-PICRH-1.0, whole genome shotgun sequence
+Sequence ID: NC_048597.1 Length: 231097868
+Range 1: 26138231 to 26138244
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  26138231  TTTACAGTATGACC  26138244
+
+
+
+
+Range 2: 26356971 to 26356984
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  26356971  TTTACAGTATGACC  26356984
+
+
+
+
+Range 3: 46596164 to 46596177
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  46596177  TTTACAGTATGACC  46596164
+
+
+
+
+Range 4: 203113060 to 203113073
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGACC  14
+                  ||||||||||||||
+Sbjct  203113073  TTTACAGTATGACC  203113060
+
+
+
+
+Range 5: 208051527 to 208051540
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  3          TACAGTATGACCGA  16
+                  ||||||||||||||
+Sbjct  208051527  TACAGTATGACCGA  208051540
+
+
+
+
+Range 6: 4380462 to 4380474
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  4380462  TTACAGTATGACC  4380474
+
+
+
+
+Range 7: 6348907 to 6348919
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  6348919  TTACAGTATGACC  6348907
+
+
+
+
+Range 8: 8722341 to 8722353
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  8722353  TTTACAGTATGAC  8722341
+
+
+
+
+Range 9: 29460606 to 29460618
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  29460606  TTACAGTATGACC  29460618
+
+
+
+
+Range 10: 30555729 to 30555741
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  9         ATGACCGAACAAT  21
+                 |||||||||||||
+Sbjct  30555729  ATGACCGAACAAT  30555741
+
+
+
+
+Range 11: 37259496 to 37259508
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  37259496  TTTACAGTATGAC  37259508
+
+
+
+
+Range 12: 62006787 to 62006799
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  62006799  TTACAGTATGACC  62006787
+
+
+
+
+Range 13: 80649288 to 80649300
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  80649300  TTTACAGTATGAC  80649288
+
+
+
+
+Range 14: 102635668 to 102635680
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  102635668  TTACAGTATGACC  102635680
+
+
+
+
+Range 15: 112520169 to 112520181
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  112520169  TTTACAGTATGAC  112520181
+
+
+
+
+Range 16: 117346757 to 117346769
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  4          ACAGTATGACCGA  16
+                  |||||||||||||
+Sbjct  117346769  ACAGTATGACCGA  117346757
+
+
+
+
+Range 17: 148089451 to 148089463
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  148089463  TTTACAGTATGAC  148089451
+
+
+
+
+Range 18: 174748351 to 174748363
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  174748363  TTACAGTATGACC  174748351
+
+
+
+
+Range 19: 175129371 to 175129383
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  175129371  TTACAGTATGACC  175129383
+
+
+
+
+Range 20: 183142975 to 183142987
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4          ACAGTATGACCGA  16
+                  |||||||||||||
+Sbjct  183142975  ACAGTATGACCGA  183142987
+
+
+
+
+Range 21: 189876842 to 189876854
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  189876854  TTTACAGTATGAC  189876842
+
+
+
+
+Range 22: 198828778 to 198828790
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  198828790  TTTACAGTATGAC  198828778
+
+
+
+
+>Cricetulus griseus strain 17A/GY chromosome 6, alternate assembly CriGri-PICRH-1.0, whole genome shotgun sequence
+Sequence ID: NC_048599.1 Length: 155611870
+Range 1: 54392814 to 54392827
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  54392814  TTTACAGTATGACC  54392827
+
+
+
+
+Range 2: 74368415 to 74368432
+
+Score:28.2 bits(14), Expect:75, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4         ACAGTATGACCGAACAAT  21
+                 |||||| |||||||||||
+Sbjct  74368432  ACAGTAAGACCGAACAAT  74368415
+
+
+
+
+Range 3: 87922040 to 87922053
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  87922053  TTTACAGTATGACC  87922040
+
+
+
+
+Range 4: 87961493 to 87961506
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  87961506  TTTACAGTATGACC  87961493
+
+
+
+
+Range 5: 138259050 to 138259063
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGACC  14
+                  ||||||||||||||
+Sbjct  138259063  TTTACAGTATGACC  138259050
+
+
+
+
+Range 6: 17382182 to 17382194
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  17382194  TTTACAGTATGAC  17382182
+
+
+
+
+Range 7: 40607037 to 40607049
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  40607037  TTTACAGTATGAC  40607049
+
+
+
+
+Range 8: 65775149 to 65775161
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  65775161  TTTACAGTATGAC  65775149
+
+
+
+
+Range 9: 85856812 to 85856824
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  10        TGACCGAACAATG  22
+                 |||||||||||||
+Sbjct  85856824  TGACCGAACAATG  85856812
+
+
+
+
+Range 10: 90166431 to 90166443
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  90166443  TTTACAGTATGAC  90166431
+
+
+
+
+Range 11: 97213960 to 97213972
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  97213972  TTTACAGTATGAC  97213960
+
+
+
+
+Range 12: 109760951 to 109760963
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  109760963  TTTACAGTATGAC  109760951
+
+
+
+
+Range 13: 114899183 to 114899195
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  114899195  TTACAGTATGACC  114899183
+
+
+
+
+Range 14: 116492450 to 116492462
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  116492462  TTACAGTATGACC  116492450
+
+
+
+
+Range 15: 132949899 to 132949911
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  132949899  TTTACAGTATGAC  132949911
+
+
+
+
+>Cricetulus griseus strain 17A/GY chromosome 8, alternate assembly CriGri-PICRH-1.0, whole genome shotgun sequence
+Sequence ID: NC_048601.1 Length: 99554469
+Range 1: 42813887 to 42813900
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  42813887  TTTACAGTATGACC  42813900
+
+
+
+
+Range 2: 10504183 to 10504195
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  10504183  TTTACAGTATGAC  10504195
+
+
+
+
+Range 3: 35410600 to 35410612
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  35410612  TTACAGTATGACC  35410600
+
+
+
+
+Range 4: 40147167 to 40147179
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  40147167  TTTACAGTATGAC  40147179
+
+
+
+
+Range 5: 42122458 to 42122470
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  42122458  TTACAGTATGACC  42122470
+
+
+
+
+Range 6: 47920957 to 47920969
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  3         TACAGTATGACCG  15
+                 |||||||||||||
+Sbjct  47920957  TACAGTATGACCG  47920969
+
+
+
+
+Range 7: 62767635 to 62767647
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  62767647  TTTACAGTATGAC  62767635
+
+
+
+
+Range 8: 63596387 to 63596399
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  63596387  TTTACAGTATGAC  63596399
+
+
+
+
+Range 9: 64757339 to 64757351
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  7         GTATGACCGAACA  19
+                 |||||||||||||
+Sbjct  64757339  GTATGACCGAACA  64757351
+
+
+
+
+>Cricetulus griseus strain 17A/GY chromosome X, alternate assembly CriGri-PICRH-1.0, whole genome shotgun sequence
+Sequence ID: NC_048604.1 Length: 127255434
+Range 1: 56336409 to 56336422
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  56336409  TTTACAGTATGACC  56336422
+
+
+
+
+Range 2: 90570950 to 90570963
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  90570963  TTTACAGTATGACC  90570950
+
+
+
+
+Range 3: 8805974 to 8805986
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  8805974  TTACAGTATGACC  8805986
+
+
+
+
+Range 4: 19844895 to 19844907
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  19844895  TTACAGTATGACC  19844907
+
+
+
+
+Range 5: 54690084 to 54690096
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  54690096  TTTACAGTATGAC  54690084
+
+
+
+
+Range 6: 91866432 to 91866444
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGAC  13
+                 |||||||||||||
+Sbjct  91866432  TTTACAGTATGAC  91866444
+
+
+
+
+Range 7: 106831547 to 106831559
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  106831559  TTACAGTATGACC  106831547
+
+
+
+
+Range 8: 120744233 to 120744245
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  120744245  TTTACAGTATGAC  120744233
+
+
+
+
+>Cricetulus griseus strain 17A/GY chromosome 1 unlocalized genomic scaffold, alternate assembly CriGri-PICRH-1.0 chr1_0, whole genome shotgun sequence
+Sequence ID: NW_023276806.1 Length: 275698159
+Range 1: 2183265 to 2183278
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1        TTTACAGTATGACC  14
+                ||||||||||||||
+Sbjct  2183278  TTTACAGTATGACC  2183265
+
+
+
+
+Range 2: 32303724 to 32303737
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  4         ACAGTATGACCGAA  17
+                 ||||||||||||||
+Sbjct  32303724  ACAGTATGACCGAA  32303737
+
+
+
+
+Range 3: 60591262 to 60591275
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         TTTACAGTATGACC  14
+                 ||||||||||||||
+Sbjct  60591262  TTTACAGTATGACC  60591275
+
+
+
+
+Range 4: 214334872 to 214334885
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGACC  14
+                  ||||||||||||||
+Sbjct  214334872  TTTACAGTATGACC  214334885
+
+
+
+
+Range 5: 3385269 to 3385281
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  3385281  TTACAGTATGACC  3385269
+
+
+
+
+Range 6: 41794073 to 41794085
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  41794085  TTACAGTATGACC  41794073
+
+
+
+
+Range 7: 47280325 to 47280337
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  8         TATGACCGAACAA  20
+                 |||||||||||||
+Sbjct  47280337  TATGACCGAACAA  47280325
+
+
+
+
+Range 8: 84563117 to 84563129
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  7         GTATGACCGAACA  19
+                 |||||||||||||
+Sbjct  84563129  GTATGACCGAACA  84563117
+
+
+
+
+Range 9: 92836250 to 92836262
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  92836262  TTACAGTATGACC  92836250
+
+
+
+
+Range 10: 119549916 to 119549928
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4          ACAGTATGACCGA  16
+                  |||||||||||||
+Sbjct  119549916  ACAGTATGACCGA  119549928
+
+
+
+
+Range 11: 143584919 to 143584931
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10         TGACCGAACAATG  22
+                  |||||||||||||
+Sbjct  143584919  TGACCGAACAATG  143584931
+
+
+
+
+Range 12: 152916007 to 152916019
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  152916019  TTTACAGTATGAC  152916007
+
+
+
+
+Range 13: 163454329 to 163454341
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  163454329  TTTACAGTATGAC  163454341
+
+
+
+
+Range 14: 174230214 to 174230226
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  174230226  TTTACAGTATGAC  174230214
+
+
+
+
+Range 15: 177003880 to 177003892
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  177003880  TTACAGTATGACC  177003892
+
+
+
+
+Range 16: 205808779 to 205808791
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  205808779  TTTACAGTATGAC  205808791
+
+
+
+
+Range 17: 222609075 to 222609087
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  9          ATGACCGAACAAT  21
+                  |||||||||||||
+Sbjct  222609087  ATGACCGAACAAT  222609075
+
+
+
+
+Range 18: 234726532 to 234726544
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          TTTACAGTATGAC  13
+                  |||||||||||||
+Sbjct  234726544  TTTACAGTATGAC  234726532
+
+
+
+
+Range 19: 248554658 to 248554670
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          TTACAGTATGACC  14
+                  |||||||||||||
+Sbjct  248554670  TTACAGTATGACC  248554658
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold244
+Sequence ID: NW_003613583.1 Length: 6533376
+Range 1: 1280013 to 1280026
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGACC  14
+                ||||||||||||||
+Sbjct  1280013  TTTACAGTATGACC  1280026
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1970
+Sequence ID: NW_003613585.1 Length: 6025277
+Range 1: 1065481 to 1065494
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGACC  14
+                ||||||||||||||
+Sbjct  1065481  TTTACAGTATGACC  1065494
+
+
+
+
+Range 2: 374018 to 374030
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2       TTACAGTATGACC  14
+               |||||||||||||
+Sbjct  374018  TTACAGTATGACC  374030
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1067
+Sequence ID: NW_003613594.1 Length: 5087073
+Range 1: 4266440 to 4266453
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGACC  14
+                ||||||||||||||
+Sbjct  4266440  TTTACAGTATGACC  4266453
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold469
+Sequence ID: NW_003613631.1 Length: 3676675
+Range 1: 3149180 to 3149193
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGACC  14
+                ||||||||||||||
+Sbjct  3149180  TTTACAGTATGACC  3149193
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold257
+Sequence ID: NW_003613649.1 Length: 3212030
+Range 1: 1492645 to 1492662
+
+Score:28.2 bits(14), Expect:75, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4        ACAGTATGACCGAACAAT  21
+                |||||| |||||||||||
+Sbjct  1492662  ACAGTAAGACCGAACAAT  1492645
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1605
+Sequence ID: NW_003613667.1 Length: 2985627
+Range 1: 2213020 to 2213033
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1        TTTACAGTATGACC  14
+                ||||||||||||||
+Sbjct  2213033  TTTACAGTATGACC  2213020
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold297
+Sequence ID: NW_003613699.1 Length: 2722307
+Range 1: 1495538 to 1495551
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGACC  14
+                ||||||||||||||
+Sbjct  1495538  TTTACAGTATGACC  1495551
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold3129
+Sequence ID: NW_003613764.1 Length: 2222064
+Range 1: 1192442 to 1192455
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGACC  14
+                ||||||||||||||
+Sbjct  1192442  TTTACAGTATGACC  1192455
+
+
+
+
+Range 2: 1409532 to 1409545
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGACC  14
+                ||||||||||||||
+Sbjct  1409532  TTTACAGTATGACC  1409545
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold3106
+Sequence ID: NW_003613770.1 Length: 2175164
+Range 1: 1673092 to 1673105
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10       TGACCGAACAATGG  23
+                ||||||||||||||
+Sbjct  1673092  TGACCGAACAATGG  1673105
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold610
+Sequence ID: NW_003613782.1 Length: 2131260
+Range 1: 1387807 to 1387820
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGACC  14
+                ||||||||||||||
+Sbjct  1387807  TTTACAGTATGACC  1387820
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1178
+Sequence ID: NW_003613817.1 Length: 2017213
+Range 1: 606024 to 606037
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1       TTTACAGTATGACC  14
+               ||||||||||||||
+Sbjct  606024  TTTACAGTATGACC  606037
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold2310
+Sequence ID: NW_003613843.1 Length: 1900604
+Range 1: 817262 to 817275
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1       TTTACAGTATGACC  14
+               ||||||||||||||
+Sbjct  817275  TTTACAGTATGACC  817262
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold159
+Sequence ID: NW_003613857.1 Length: 1839028
+Range 1: 886562 to 886575
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  10      TGACCGAACAATGG  23
+               ||||||||||||||
+Sbjct  886575  TGACCGAACAATGG  886562
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1486
+Sequence ID: NW_003613900.1 Length: 1676182
+Range 1: 1302623 to 1302636
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  4        ACAGTATGACCGAA  17
+                ||||||||||||||
+Sbjct  1302636  ACAGTATGACCGAA  1302623
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold764
+Sequence ID: NW_003613901.1 Length: 1675245
+Range 1: 714225 to 714238
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  3       TACAGTATGACCGA  16
+               ||||||||||||||
+Sbjct  714225  TACAGTATGACCGA  714238
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold979
+Sequence ID: NW_003613934.1 Length: 1594591
+Range 1: 865170 to 865183
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1       TTTACAGTATGACC  14
+               ||||||||||||||
+Sbjct  865170  TTTACAGTATGACC  865183
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold3711
+Sequence ID: NW_003614090.1 Length: 1219733
+Range 1: 489933 to 489946
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1       TTTACAGTATGACC  14
+               ||||||||||||||
+Sbjct  489946  TTTACAGTATGACC  489933
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold831
+Sequence ID: NW_003614125.1 Length: 1147448
+Range 1: 11065 to 11078
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1      TTTACAGTATGACC  14
+              ||||||||||||||
+Sbjct  11078  TTTACAGTATGACC  11065
+
+
+
+
+Range 2: 50227 to 50240
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1      TTTACAGTATGACC  14
+              ||||||||||||||
+Sbjct  50240  TTTACAGTATGACC  50227
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1051
+Sequence ID: NW_003614203.1 Length: 1022093
+Range 1: 428941 to 428954
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1       TTTACAGTATGACC  14
+               ||||||||||||||
+Sbjct  428941  TTTACAGTATGACC  428954
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1900
+Sequence ID: NW_003614407.1 Length: 784548
+Range 1: 532461 to 532474
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  8       TATGACCGAACAAT  21
+               ||||||||||||||
+Sbjct  532461  TATGACCGAACAAT  532474
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold2056
+Sequence ID: NW_003614427.1 Length: 772573
+Range 1: 482338 to 482351
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1       TTTACAGTATGACC  14
+               ||||||||||||||
+Sbjct  482338  TTTACAGTATGACC  482351
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1956
+Sequence ID: NW_003614475.1 Length: 724048
+Range 1: 591258 to 591271
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1       TTTACAGTATGACC  14
+               ||||||||||||||
+Sbjct  591271  TTTACAGTATGACC  591258
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold311
+Sequence ID: NW_003614507.1 Length: 692320
+Range 1: 238589 to 238602
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10      TGACCGAACAATGG  23
+               ||||||||||||||
+Sbjct  238589  TGACCGAACAATGG  238602
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold2770
+Sequence ID: NW_003614545.1 Length: 668345
+Range 1: 285328 to 285341
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  4       ACAGTATGACCGAA  17
+               ||||||||||||||
+Sbjct  285328  ACAGTATGACCGAA  285341
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1411
+Sequence ID: NW_003615010.1 Length: 391751
+Range 1: 40256 to 40269
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1      TTTACAGTATGACC  14
+              ||||||||||||||
+Sbjct  40269  TTTACAGTATGACC  40256
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold2591
+Sequence ID: NW_003615033.1 Length: 382275
+Range 1: 340461 to 340474
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1       TTTACAGTATGACC  14
+               ||||||||||||||
+Sbjct  340474  TTTACAGTATGACC  340461
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold2941
+Sequence ID: NW_003615443.1 Length: 268674
+Range 1: 199472 to 199485
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  5       CAGTATGACCGAAC  18
+               ||||||||||||||
+Sbjct  199472  CAGTATGACCGAAC  199485
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold382
+Sequence ID: NW_003615795.1 Length: 197184
+Range 1: 189533 to 189546
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  4       ACAGTATGACCGAA  17
+               ||||||||||||||
+Sbjct  189546  ACAGTATGACCGAA  189533
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold3517
+Sequence ID: NW_003615965.1 Length: 170310
+Range 1: 58614 to 58627
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1      TTTACAGTATGACC  14
+              ||||||||||||||
+Sbjct  58614  TTTACAGTATGACC  58627
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold2961
+Sequence ID: NW_003616533.1 Length: 118091
+Range 1: 90623 to 90636
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1      TTTACAGTATGACC  14
+              ||||||||||||||
+Sbjct  90636  TTTACAGTATGACC  90623
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold3782
+Sequence ID: NW_003616627.1 Length: 111193
+Range 1: 92725 to 92738
+
+Score:28.2 bits(14), Expect:75, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1      TTTACAGTATGACC  14
+              ||||||||||||||
+Sbjct  92725  TTTACAGTATGACC  92738
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold4213
+Sequence ID: NW_003617382.1 Length: 69795
+Range 1: 14764 to 14781
+
+Score:28.2 bits(14), Expect:75, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  4      ACAGTATGACCGAACAAT  21
+              |||||||||||| |||||
+Sbjct  14764  ACAGTATGACCGGACAAT  14781
+
+
+
+
+>Cricetulus griseus strain 17A/GY unplaced genomic scaffold, alternate assembly CriGri-PICRH-1.0 unplaced_scaffold_24, whole genome shotgun sequence
+Sequence ID: NW_023276964.1 Length: 327103
+Range 1: 212487 to 212499
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1       TTTACAGTATGAC  13
+               |||||||||||||
+Sbjct  212487  TTTACAGTATGAC  212499
+
+
+
+
+>Cricetulus griseus strain 17A/GY unplaced genomic scaffold, alternate assembly CriGri-PICRH-1.0 unplaced_scaffold_133, whole genome shotgun sequence
+Sequence ID: NW_023276846.1 Length: 82219
+Range 1: 33849 to 33861
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1      TTTACAGTATGAC  13
+              |||||||||||||
+Sbjct  33861  TTTACAGTATGAC  33849
+
+
+
+
+>Cricetulus griseus strain 17A/GY chromosome 10, alternate assembly CriGri-PICRH-1.0, whole genome shotgun sequence
+Sequence ID: NC_048603.1 Length: 32558357
+Range 1: 13946740 to 13946752
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10        TGACCGAACAATG  22
+                 |||||||||||||
+Sbjct  13946740  TGACCGAACAATG  13946752
+
+
+
+
+Range 2: 19175560 to 19175572
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         TTACAGTATGACC  14
+                 |||||||||||||
+Sbjct  19175560  TTACAGTATGACC  19175572
+
+
+
+
+Range 3: 24081137 to 24081149
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  8         TATGACCGAACAA  20
+                 |||||||||||||
+Sbjct  24081137  TATGACCGAACAA  24081149
+
+
+
+
+Range 4: 28121189 to 28121201
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  5         CAGTATGACCGAA  17
+                 |||||||||||||
+Sbjct  28121189  CAGTATGACCGAA  28121201
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold934
+Sequence ID: NW_003613582.1 Length: 6666273
+Range 1: 4711247 to 4711259
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  4        ACAGTATGACCGA  16
+                |||||||||||||
+Sbjct  4711259  ACAGTATGACCGA  4711247
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold641
+Sequence ID: NW_003613584.1 Length: 6190410
+Range 1: 6187859 to 6187871
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  3        TACAGTATGACCG  15
+                |||||||||||||
+Sbjct  6187871  TACAGTATGACCG  6187859
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold269
+Sequence ID: NW_003613586.1 Length: 6017914
+Range 1: 456695 to 456707
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1       TTTACAGTATGAC  13
+               |||||||||||||
+Sbjct  456695  TTTACAGTATGAC  456707
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold156
+Sequence ID: NW_003613587.1 Length: 5891381
+Range 1: 454297 to 454309
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1       TTTACAGTATGAC  13
+               |||||||||||||
+Sbjct  454297  TTTACAGTATGAC  454309
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold284
+Sequence ID: NW_003613588.1 Length: 5865362
+Range 1: 1553179 to 1553191
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  1553191  TTTACAGTATGAC  1553179
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold945
+Sequence ID: NW_003613589.1 Length: 5672382
+Range 1: 3242000 to 3242012
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  11       GACCGAACAATGG  23
+                |||||||||||||
+Sbjct  3242000  GACCGAACAATGG  3242012
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold488
+Sequence ID: NW_003613590.1 Length: 5545501
+Range 1: 5122084 to 5122096
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  5122096  TTTACAGTATGAC  5122084
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold226
+Sequence ID: NW_003613592.1 Length: 5329664
+Range 1: 371397 to 371409
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1       TTTACAGTATGAC  13
+               |||||||||||||
+Sbjct  371397  TTTACAGTATGAC  371409
+
+
+
+
+Range 2: 2544724 to 2544736
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  2544736  TTTACAGTATGAC  2544724
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1251
+Sequence ID: NW_003613595.1 Length: 4980923
+Range 1: 1697540 to 1697552
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  1697540  TTTACAGTATGAC  1697552
+
+
+
+
+Range 2: 4053443 to 4053455
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  4053443  TTACAGTATGACC  4053455
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold429
+Sequence ID: NW_003613596.1 Length: 4912450
+Range 1: 1416981 to 1416993
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  1416993  TTACAGTATGACC  1416981
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold272
+Sequence ID: NW_003613597.1 Length: 4900080
+Range 1: 2007338 to 2007350
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  2007338  TTTACAGTATGAC  2007350
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold92
+Sequence ID: NW_003613598.1 Length: 4797145
+Range 1: 645125 to 645137
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2       TTACAGTATGACC  14
+               |||||||||||||
+Sbjct  645125  TTACAGTATGACC  645137
+
+
+
+
+Range 2: 2707612 to 2707624
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  2707612  TTACAGTATGACC  2707624
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold13
+Sequence ID: NW_003613599.1 Length: 4686562
+Range 1: 3016290 to 3016302
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  3016290  TTTACAGTATGAC  3016302
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold980
+Sequence ID: NW_003613600.1 Length: 4670979
+Range 1: 2092834 to 2092846
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  2092834  TTTACAGTATGAC  2092846
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold609
+Sequence ID: NW_003613603.1 Length: 4657195
+Range 1: 995286 to 995298
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1       TTTACAGTATGAC  13
+               |||||||||||||
+Sbjct  995298  TTTACAGTATGAC  995286
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold177
+Sequence ID: NW_003613607.1 Length: 4429136
+Range 1: 3452495 to 3452507
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  9        ATGACCGAACAAT  21
+                |||||||||||||
+Sbjct  3452495  ATGACCGAACAAT  3452507
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold144
+Sequence ID: NW_003613608.1 Length: 4408540
+Range 1: 3251468 to 3251480
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  3251480  TTACAGTATGACC  3251468
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold37
+Sequence ID: NW_003613613.1 Length: 4329962
+Range 1: 3325304 to 3325316
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  11       GACCGAACAATGG  23
+                |||||||||||||
+Sbjct  3325304  GACCGAACAATGG  3325316
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold364
+Sequence ID: NW_003613621.1 Length: 4110586
+Range 1: 711055 to 711067
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1       TTTACAGTATGAC  13
+               |||||||||||||
+Sbjct  711067  TTTACAGTATGAC  711055
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold466
+Sequence ID: NW_003613626.1 Length: 3839218
+Range 1: 3121458 to 3121470
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  3121458  TTTACAGTATGAC  3121470
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold653
+Sequence ID: NW_003613632.1 Length: 3676172
+Range 1: 3589991 to 3590003
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  3589991  TTTACAGTATGAC  3590003
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold833
+Sequence ID: NW_003613635.1 Length: 3632611
+Range 1: 445913 to 445925
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1       TTTACAGTATGAC  13
+               |||||||||||||
+Sbjct  445913  TTTACAGTATGAC  445925
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold388
+Sequence ID: NW_003613638.1 Length: 3472997
+Range 1: 1106697 to 1106709
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  9        ATGACCGAACAAT  21
+                |||||||||||||
+Sbjct  1106697  ATGACCGAACAAT  1106709
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold399
+Sequence ID: NW_003613640.1 Length: 3400515
+Range 1: 3220248 to 3220260
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  9        ATGACCGAACAAT  21
+                |||||||||||||
+Sbjct  3220248  ATGACCGAACAAT  3220260
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold313
+Sequence ID: NW_003613645.1 Length: 3300758
+Range 1: 1053719 to 1053731
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  1053719  TTACAGTATGACC  1053731
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold1714
+Sequence ID: NW_003613646.1 Length: 3299557
+Range 1: 2788493 to 2788505
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  10       TGACCGAACAATG  22
+                |||||||||||||
+Sbjct  2788505  TGACCGAACAATG  2788493
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold754
+Sequence ID: NW_003613651.1 Length: 3174489
+Range 1: 849999 to 850011
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  11      GACCGAACAATGG  23
+               |||||||||||||
+Sbjct  849999  GACCGAACAATGG  850011
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold938
+Sequence ID: NW_003613654.1 Length: 3156967
+Range 1: 1330844 to 1330856
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  1330856  TTTACAGTATGAC  1330844
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold172
+Sequence ID: NW_003613658.1 Length: 3119670
+Range 1: 1469248 to 1469260
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  1469248  TTACAGTATGACC  1469260
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold129
+Sequence ID: NW_003613662.1 Length: 3026788
+Range 1: 1140439 to 1140451
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  1140451  TTTACAGTATGAC  1140439
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold526
+Sequence ID: NW_003613666.1 Length: 2995885
+Range 1: 637707 to 637719
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2       TTACAGTATGACC  14
+               |||||||||||||
+Sbjct  637707  TTACAGTATGACC  637719
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold2664
+Sequence ID: NW_003613672.1 Length: 2936937
+Range 1: 106822 to 106834
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1       TTTACAGTATGAC  13
+               |||||||||||||
+Sbjct  106834  TTTACAGTATGAC  106822
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold109
+Sequence ID: NW_003613680.1 Length: 2890666
+Range 1: 1708286 to 1708298
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  1708298  TTTACAGTATGAC  1708286
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold146
+Sequence ID: NW_003613682.1 Length: 2881222
+Range 1: 271920 to 271932
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1       TTTACAGTATGAC  13
+               |||||||||||||
+Sbjct  271932  TTTACAGTATGAC  271920
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold184
+Sequence ID: NW_003613684.1 Length: 2849890
+Range 1: 2483865 to 2483877
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  2483865  TTACAGTATGACC  2483877
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold2536
+Sequence ID: NW_003613692.1 Length: 2754436
+Range 1: 1881491 to 1881503
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  1881491  TTACAGTATGACC  1881503
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold46
+Sequence ID: NW_003613701.1 Length: 2720104
+Range 1: 2561234 to 2561246
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  2561234  TTACAGTATGACC  2561246
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold622
+Sequence ID: NW_003613716.1 Length: 2563300
+Range 1: 741408 to 741420
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2       TTACAGTATGACC  14
+               |||||||||||||
+Sbjct  741408  TTACAGTATGACC  741420
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold358
+Sequence ID: NW_003613726.1 Length: 2487352
+Range 1: 1129463 to 1129475
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2        TTACAGTATGACC  14
+                |||||||||||||
+Sbjct  1129475  TTACAGTATGACC  1129463
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold915
+Sequence ID: NW_003613728.1 Length: 2479310
+Range 1: 2253439 to 2253451
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  2253439  TTTACAGTATGAC  2253451
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold766
+Sequence ID: NW_003613731.1 Length: 2447628
+Range 1: 1403656 to 1403668
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1        TTTACAGTATGAC  13
+                |||||||||||||
+Sbjct  1403668  TTTACAGTATGAC  1403656
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold761
+Sequence ID: NW_003613735.1 Length: 2424524
+Range 1: 1157648 to 1157660
+
+Score:26.3 bits(13), Expect:296, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  5        CAGTATGACCGAA  17
+                |||||||||||||
+Sbjct  1157648  CAGTATGACCGAA  1157660
+
+
+
+
+
+
+
+		
+
+

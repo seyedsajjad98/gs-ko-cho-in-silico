@@ -1,0 +1,3 @@
+﻿accession,description,percent_identity,alignment_length,query_start,query_end,subject_start,subject_end
+NC_048598.1,Chromosome 5 (GLUL locus),100,23,1,23,37805741,37805763
+NW_003613921.1,Unplaced Scaffold 2883 (GS-like),100,23,1,23,51168,51190
