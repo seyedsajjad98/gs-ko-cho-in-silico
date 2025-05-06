@@ -17,24 +17,47 @@
 ---
 
 ## 2 Guide design (Step 2 of pipeline)
-### 2.1 Inputs
+
+### 2.1 Inputs
+
 | Item | Path |
 |------|------|
 | Exon‑1 FASTA | `data/exon1_glul_chr5.fasta` |
+| CRISPOR output | `data/crispor_guides_raw.xls`, `data/crispor_guides_allscores.xls`, `data/crispor_offtargets.xls` |
 
-### 2.2 Process
-- Tool: **CRISPOR** (commit 2025‑04‑24).  
-- Parameters: genome = *CriGri‑PICRH* (taxid 10029), PAM = NGG, nuclease = SpCas9.
+### 2.2 Process
 
-### 2.3 Outputs
-- `data/crispor_guides_raw.xls` (32 guides)  
-- `scripts/select_guides.R` → filters by efficiency ≥ 60, specificity ≥ 70, frameshift ≥ 50.
+- Used [CRISPOR](http://crispor.tefor.net/) to design sgRNAs targeting **exon 1** of **GLUL** (Gene ID: [100764163](https://www.ncbi.nlm.nih.gov/gene/100764163)) in CHO-K1.
+- Genome selected: **CriGri‑PICRH (taxid 10029)**
+- Nuclease: SpCas9, PAM: NGG
+- Exported the raw guide list, full scoring metrics, and off-targets as `.xls` files.
 
-### 2.4 Decision
-Chose guide **136forw** (`TTTACAGTATGACCGAACAATGG`) — highest efficiency + specificity.
+### 2.3 Outputs
 
-### 2.5 Evidence
-![](../figures/crispor_136forw_scores.png)
+- `crispor_guides_raw.xls` – 32 candidate guides  
+- `crispor_guides_allscores.xls` – additional scoring features  
+- `crispor_offtargets.xls` – off-target predictions genome-wide
+
+### 2.4 Selection
+
+- R script `scripts/select_guides.R` was used to filter guides based on:
+  - **Doench 2016 efficiency ≥ 60**
+  - **CFD specificity ≥ 70**
+  - **Frameshift likelihood ≥ 50**
+- Top-ranked candidate:  
+  - **Guide ID:** `136forw`  
+  - **Target sequence:** `TTTACAGTATGACCGAACAATGG`
+
+### 2.5 Visuals
+
+![](../figures/guide_efficiency_vs_specificity.png)  
+*Figure 1: Guide efficiency vs. specificity plot. Point size = predicted off-target count; color = frameshift probability.*
+
+![](../figures/offtarget_count_barplot.png)  
+*Figure 2: Predicted off-target counts for top candidate guides.*
+
+> See [R code for guide filtering](../scripts/select_guides.R).
+
 
 ---
 
