@@ -1,0 +1,5 @@
+# ignore OS / editor clutter
+.DS_Store
+Thumbs.db
+~*
+*.tmp
