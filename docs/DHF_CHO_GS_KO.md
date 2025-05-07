@@ -102,6 +102,7 @@ Ensure the selected guide (`136forw`) targets **both genomic copies** of the GS 
 
 ![](../figures/blast_dual_hits_overview.png)  
 *Figure 3: BLAST results for guide 136forw showing perfect matches on both annotated and unplaced scaffold loci.*
+> Summary available: [blast_hits_summary.csv](../data/blast_hits_summary..csv)
 
 ### 3.6 Decision
 
