@@ -75,29 +75,38 @@ Ensure the selected guide (`136forw`) targets **both genomic copies** of the GS 
 | BLAST output | `data/blast_136forw_alignment.txt` |
 | Summary table | `data/blast_hits_summary.csv` |
 
-BLAST was run using `blastn` against the **CriGri-PICRH assembly (taxid 10029)**, using the full 23 bp guide + NGG PAM.
+### 3.3 Procedure
 
-### 3.3 Key hits (100% identity)
+- Tool: [NCBI BLASTN](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+- Query: 23 bp guide + NGG PAM (`TTTACAGTATGACCGAACAATGG`)
+- Database: **RefSeq genomic assemblies**
+- Organism: *Cricetulus griseus* (**taxid: 10029**, CriGri-PICRH)
+- Settings:
+  - Expect threshold = 10  
+  - Word size = 11  
+  - Match/Mismatch = 2/–3  
+  - Gap costs = linear  
+  - Filter low complexity: **ON**  
+  - Max target sequences = 100
+
+### 3.4 Key hits (100% identity)
 
 | Accession | Location | Match | Description |
 |-----------|----------|--------|-------------|
 | `NC_048598.1` | 37,805,771–793 | 23/23 | Exon 1 of annotated GLUL (chr 5) |
 | `NW_003613921.1` | 1,427,645–667 | 23/23 | Unannotated GLUL-like locus (scaffold 2883) |
 
-These two loci strongly suggest the presence of a duplicated GS gene in CHO-K1, consistent with previous reports (e.g., Srila et al., 2023).
+> Full alignment text and summary table are included in the `/data` folder.
 
-> The second locus is not separately annotated in [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene/) but was detected by direct sequence alignment.
+### 3.5 Visual proof
 
-### 3.4 Visuals
+![](../figures/blast_dual_hits_overview.png)  
+*Figure 3: BLAST results for guide 136forw showing perfect matches on both annotated and unplaced scaffold loci.*
 
-![](../figures/blast_alignment_screenshot.png)  
-*Figure 3: Screenshot of BLAST alignments for the 136forw guide showing dual perfect matches.*
-
-> For full context, see [`blast_hits_summary.csv`](../data/blast_hits_summary..csv)
-
-### 3.5 Decision
+### 3.6 Decision
 
 No need to design a second guide. The chosen guide `136forw` hits both known GS loci → ensures full knockout with a single sgRNA.
+
 
 
 ---
