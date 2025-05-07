@@ -93,7 +93,7 @@ These two loci strongly suggest the presence of a duplicated GS gene in CHO-K1, 
 ![](../figures/blast_alignment_screenshot.png)  
 *Figure 3: Screenshot of BLAST alignments for the 136forw guide showing dual perfect matches.*
 
-> For full context, see [`blast_hits_summary.csv`](../data/blast_hits_summary.csv)
+> For full context, see [`blast_hits_summary.csv`](../data/blast_hits_summary..csv)
 
 ### 3.5 Decision
 
