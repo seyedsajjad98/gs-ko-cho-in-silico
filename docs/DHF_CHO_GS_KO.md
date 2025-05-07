@@ -61,24 +61,44 @@
 
 ---
 
-## 3 Dual‑locus verification (Step 3)
-### 3.1 BLAST run
-- Query: 23‑mer + PAM  
-- Database: RefSeq genomes, taxid 10029.  
-- Command preset URL: <https://blast.ncbi.nlm.nih.gov/…>
+## 3 Dual-locus verification (Step 3)
 
-### 3.2 Result summary
-| Accession | Start‑End | Identity | Description |
-|-----------|-----------|----------|-------------|
-| **NC_048598.1** | 37 805 771–793 | 23/23 (100 %) | GLUL exon 1 (chr 5) |
-| **NW_003613921.1** | 1 427 645–667 | 23/23 (100 %) | GLUL‑like exon 1 (dup.) |
+### 3.1 Objective
 
-*(Full file: `data/raw/blast_136forw_full.txt`)*
+Ensure the selected guide (`136forw`) targets **both genomic copies** of the GS gene in CHO-K1, including any unannotated duplicates.
 
-![](../figures/blast_hits.png)
+### 3.2 Inputs
 
-### 3.3 Decision
-Guide covers both loci → no second sgRNA required.
+| File | Path |
+|------|------|
+| Guide with PAM | `TTTACAGTATGACCGAACAATGG` |
+| BLAST output | `data/blast_136forw_alignment.txt` |
+| Summary table | `data/blast_hits_summary.csv` |
+
+BLAST was run using `blastn` against the **CriGri-PICRH assembly (taxid 10029)**, using the full 23 bp guide + NGG PAM.
+
+### 3.3 Key hits (100% identity)
+
+| Accession | Location | Match | Description |
+|-----------|----------|--------|-------------|
+| `NC_048598.1` | 37,805,771–793 | 23/23 | Exon 1 of annotated GLUL (chr 5) |
+| `NW_003613921.1` | 1,427,645–667 | 23/23 | Unannotated GLUL-like locus (scaffold 2883) |
+
+These two loci strongly suggest the presence of a duplicated GS gene in CHO-K1, consistent with previous reports (e.g., Srila et al., 2023).
+
+> The second locus is not separately annotated in [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene/) but was detected by direct sequence alignment.
+
+### 3.4 Visuals
+
+![](../figures/blast_alignment_screenshot.png)  
+*Figure 3: Screenshot of BLAST alignments for the 136forw guide showing dual perfect matches.*
+
+> For full context, see [`blast_hits_summary.csv`](../data/blast_hits_summary.csv)
+
+### 3.5 Decision
+
+No need to design a second guide. The chosen guide `136forw` hits both known GS loci → ensures full knockout with a single sgRNA.
+
 
 ---
 
