@@ -16,47 +16,51 @@
 
 ---
 
-## 2 Guide design (Step 2 of pipeline)
+## 2 Guide design (Step 2 of pipeline)
 
 ### 2.1 Inputs
 
-| Item | Path |
-|------|------|
-| Exon‑1 FASTA | `data/exon1_glul_chr5.fasta` |
-| CRISPOR output | `data/crispor_guides_raw.xls`, `data/crispor_guides_allscores.xls`, `data/crispor_offtargets.xls` |
+| Item | Link / Path |
+|------|-------------|
+| Exon-1 FASTA | [`data/exon1_glul_chr5.fasta`](../data/exon1_glul_chr5.fasta) |
+| CRISPOR design (web) | <https://crispor.gi.ucsc.edu/crispor.py?batchId=aMGdfbP8brJISzWAaMfe> |
+| CRISPOR off-target primers (web) | <https://crispor.gi.ucsc.edu/crispor.py?batchId=aMGdfbP8brJISzWAaMfe&pamId=s135%2B&otPrimers=1> |
+| CRISPOR raw output | [`data/crispor_guides_raw.xls`](../data/crispor_guides_raw.xls),<br> [`data/crispor_guides_allscores.xls`](../data/crispor_guides_allscores.xls),<br> [`data/crispor_offtargets.xls`](../data/crispor_offtargets.xls) |
+| Off-target primers PDF | [`docs/refs/crispor_offtarget_primers_136forw.pdf`](../refs/crispor_offtarget_primers_136forw.pdf) |
 
 ### 2.2 Process
 
-- Used [CRISPOR](http://crispor.tefor.net/) to design sgRNAs targeting **exon 1** of **GLUL** (Gene ID: [100764163](https://www.ncbi.nlm.nih.gov/gene/100764163)) in CHO-K1.
-- Genome selected: **CriGri‑PICRH (taxid 10029)**
-- Nuclease: SpCas9, PAM: NGG
-- Exported the raw guide list, full scoring metrics, and off-targets as `.xls` files.
+- Used [CRISPOR](https://crispor.tefor.net/) to design sgRNAs targeting **exon 1** of **GLUL** (Gene ID: [100764163](https://www.ncbi.nlm.nih.gov/gene/100764163)) in CHO-K1.  
+- Genome selected: **CriGri-PICRH (taxid 10029)**  
+- Nuclease: SpCas9, PAM: NGG  
+- Exported raw guide list, full scoring metrics, and off-targets as `.xls` files.  
 
 ### 2.3 Outputs
 
-- `crispor_guides_raw.xls` – 32 candidate guides  
-- `crispor_guides_allscores.xls` – additional scoring features  
-- `crispor_offtargets.xls` – off-target predictions genome-wide
+- [`crispor_guides_raw.xls`](../data/crispor_guides_raw.xls) – 32 candidate guides  
+- [`crispor_guides_allscores.xls`](../data/crispor_guides_allscores.xls) – full metric table  
+- [`crispor_offtargets.xls`](../data/crispor_offtargets.xls) – off-target predictions  
 
 ### 2.4 Selection
 
-- R script `scripts/select_guides.R` was used to filter guides based on:
-  - **Doench 2016 efficiency ≥ 60**
-  - **CFD specificity ≥ 70**
-  - **Frameshift likelihood ≥ 50**
-- Top-ranked candidate:  
-  - **Guide ID:** `136forw`  
-  - **Target sequence:** `TTTACAGTATGACCGAACAATGG`
+- Script: `scripts/select_guides.R`  
+- Filtering criteria:  
+  - **Doench ’16 efficiency ≥ 60**  
+  - **CFD specificity ≥ 70**  
+  - **Frameshift probability ≥ 50**  
+- **Top guide:**  
+  - **ID:** `136forw`  
+  - **Sequence:** `TTTACAGTATGACCGAACAATGG`  
 
 ### 2.5 Visuals
 
 ![](../figures/guide_efficiency_vs_specificity.png)  
-*Figure 1: Guide efficiency vs. specificity plot. Point size = predicted off-target count; color = frameshift probability.*
+*Figure 1: Efficiency vs. specificity (size = off-target count; color = frameshift likelihood).*
 
 ![](../figures/offtarget_count_barplot.png)  
-*Figure 2: Predicted off-target counts for top candidate guides.*
+*Figure 2: Predicted off-target counts for top candidates.*
 
-> See [R code for guide filtering](../scripts/select_guides.R).
+> See [R code for guide filtering](../scripts/select_guides.R).  
 
 
 ---
