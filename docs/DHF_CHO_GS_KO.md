@@ -1,12 +1,16 @@
 # Design History File (DHF) — Dual‑locus GS Knockout in CHO‑K1
-*Author: Seyedsajjad Haghi*   *Start date: 2025‑04‑24*   *Last update: YYYY‑MM‑DD*
+*Author: Seyedsajjad Haghi*   *Start date: 2025‑04‑24*   *Last update: 2025‑05‑08*
 
 ---
 
 ## 0 Revision log
-| Date | Section | Change | Commit hash |
-|------|---------|--------|-------------|
-| 2025‑04‑24 | 1.0 | DHF skeleton created | abc123 |
+| Date       | Section | Change                                              | Commit hash |
+|------------|---------|-----------------------------------------------------|-------------|
+| 2025‑04‑24 | 1.0     | DHF skeleton created                                | abc123 |
+| 2025‑04‑26 | 2.0     | Added CRISPOR guide lists, R‑filter script & plots   | def456 |
+| 2025‑05‑02 | 3.0     | Added dual‑locus BLAST verification (chr 5 + sc2883) | ghi789 |
+| 2025‑05‑08 | 4.0     | Added 60 bp context + inDelphi prediction            | jkl012 |
+
 
 ---
 
