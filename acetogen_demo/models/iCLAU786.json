@@ -1,0 +1,122 @@
+{
+  "name" : "Norman2019 - Genome-scale model of Clostridium autoethanogenum",
+  "description" : "REQUIRES SCRUMPY (mudshark.brookes.ac.uk/ScrumPy)To initiate model object, navigate to Model directory and start ScrumPy, then run:>>> m = ScrumPy.Model('MetaCLAU.spy')",
+  "format" : {
+    "name" : "Other",
+    "identifier" : "UNKNOWN",
+    "version" : "*"
+  },
+  "publication" : {
+    "type" : "DOI",
+    "accession" : "10.1049/enb.2018.5003",
+    "journal" : "IET - Engineering Biology",
+    "title" : "Genome-scale model of C. autoethanogenum reveals optimal bioprocess conditions for high-value chemical production from carbon monoxide",
+    "affiliation" : "Synthetic Biology Research Centre, University of Nottingham, University Park, Nottingham NG7 2RD, UK",
+    "synopsis" : "Clostridium autoethanogenum is an industrial microbe used for the commercial-scale production of ethanol from carbon monoxide. While significant progress has been made in the attempted diversification of this bioprocess, further improvements are desirable, particularly in the formation of the high-value platform chemicals such as 2,3-butanediol (2,3-BD). A new, experimentally parameterised genome-scale model of C. autoethanogenum predicts dramatically increased 2,3-BD production under non-carbon-limited conditions when thermodynamic constraints on hydrogen production are considered.",
+    "year" : 2019,
+    "month" : "5",
+    "link" : "http://identifiers.org/doi/10.1049/enb.2018.5003",
+    "authors" : [
+      {
+        "name" : "Rupert Norman"
+      },
+      {
+        "name" : "Thomas Millat"
+      },
+      {
+        "name" : "Sarah Schatschneider"
+      },
+      {
+        "name" : "Anne M. Henstra"
+      },
+      {
+        "name" : "Ronja Breitkopf"
+      },
+      {
+        "name" : "Bart Pander"
+      },
+      {
+        "name" : "Florence J. Annan"
+      },
+      {
+        "name" : "Pawel Piatek"
+      },
+      {
+        "name" : "Hassan B. Hartman"
+      },
+      {
+        "name" : "Mark G. Poolman"
+      },
+      {
+        "name" : "David A. Fell"
+      },
+      {
+        "name" : "Klaus Winzer"
+      },
+      {
+        "name" : "Nigel P. Minton"
+      },
+      {
+        "name" : "Charlie Hodgman"
+      }
+    ]
+  },
+  "files" : {
+    "main" : [
+      {
+        "name" : "Model.tar.gz",
+        "description" : "ScrumPy model directory for Clostridium autoethanogenum genome-scale model (compressed)",
+        "fileSize" : "601800",
+        "mimeType" : "application/gzip",
+        "md5sum" : "6da0ff7bbf80f12e74e3732302395765",
+        "sha1sum" : "2278eb78ca5f995917590c103a69e92ee004cb26",
+        "sha256sum" : "0deb620444b01e35bda90891ce873260f44f30e40147b590678823f18da38aac"
+      }
+    ]
+  },
+  "history" : {
+    "revisions" : [
+      {
+        "version" : 5,
+        "submitted" : 1561719281,
+        "submitter" : "Rahuman S Malik-Sheriff",
+        "comment" : "Edited model metadata online."
+      }
+    ]
+  },
+  "firstPublished" : 1561719580,
+  "submissionId" : "MODEL1810120001",
+  "curationStatus" : "NON_CURATED",
+  "contributors" : {
+    "Modeller" : [
+      {
+        "name" : "rupert.norman@nottingham.ac.uk",
+        "email" : "rupert.norman@nottingham.ac.uk",
+        "affiliation" : "University of Nottingham",
+        "external" : false
+      },
+      {
+        "name" : "Rahuman S Malik-Sheriff",
+        "email" : "sheriff@ebi.ac.uk",
+        "affiliation" : "European Molecular Biology Laboratory-European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK.",
+        "orcid" : "0000-0003-0705-9809",
+        "external" : false
+      }
+    ]
+  },
+  "vcsIdentifier" : "aag",
+  "modelLevelAnnotations" : [
+    {
+      "qualifier" : "bqmodel:isDescribedBy",
+      "accession" : "10.1049/enb.2018.5003",
+      "resource" : "DOI",
+      "uri" : "https://identifiers.org/doi:10.1049/enb.2018.5003"
+    },
+    {
+      "qualifier" : "bqmodel:is",
+      "accession" : "MODEL1810120001",
+      "resource" : "BioModels Database",
+      "uri" : "https://identifiers.org/biomodels.db:MODEL1810120001"
+    }
+  ]
+}
