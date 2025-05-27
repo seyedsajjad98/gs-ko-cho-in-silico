@@ -10,7 +10,7 @@
 | 2025‑04‑26 | 2.0     | Added CRISPOR guide lists, R‑filter script & plots  | a6436de     |
 | 2025‑05‑02 | 3.0     | Added dual‑locus BLAST verification (chr 5 + sc2883) | 75f6ecf     |
 | 2025‑05‑08 | 4.0     | Added 60 bp context + inDelphi prediction           | 6534a91     |
-| 2025‑05‑28 | 5.0     | Added vector cloning summary for 136forw in pX330     | TBD         |
+| 2025‑05‑28 | 5.0     | Added vector cloning summary for 136forw in pX330     | afee41d         |
 
 
 
