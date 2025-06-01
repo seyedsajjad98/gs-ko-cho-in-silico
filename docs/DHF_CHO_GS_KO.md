@@ -57,7 +57,9 @@
   - **Frameshift probability ≥ 50**  
 - **Top guide:**  
   - **ID:** `136forw`  
-  - **Sequence:** `TTTACAGTATGACCGAACAATGG`  
+  - **Sequence:** `TTTACAGTATGACCGAACAAT`  
+  - **Note:** PAM sequence `GG` excluded from sgRNA design (present in genome only)
+  
 
 ### 2.5 Visuals
 
